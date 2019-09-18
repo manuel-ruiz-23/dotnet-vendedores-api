@@ -1,0 +1,14 @@
+/home/manuelon/Documentos/dotnet/Vendedores/bin/Debug/netcoreapp2.2/Vendedores.deps.json
+/home/manuelon/Documentos/dotnet/Vendedores/bin/Debug/netcoreapp2.2/Vendedores.runtimeconfig.json
+/home/manuelon/Documentos/dotnet/Vendedores/bin/Debug/netcoreapp2.2/Vendedores.runtimeconfig.dev.json
+/home/manuelon/Documentos/dotnet/Vendedores/bin/Debug/netcoreapp2.2/Vendedores.dll
+/home/manuelon/Documentos/dotnet/Vendedores/bin/Debug/netcoreapp2.2/Vendedores.pdb
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.csprojAssemblyReference.cache
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.csproj.CoreCompileInputs.cache
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.RazorAssemblyInfo.cache
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.RazorAssemblyInfo.cs
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.AssemblyInfoInputs.cache
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.AssemblyInfo.cs
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.RazorTargetAssemblyInfo.cache
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.dll
+/home/manuelon/Documentos/dotnet/Vendedores/obj/Debug/netcoreapp2.2/Vendedores.pdb
